@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const MongoDBURL ='mongodb+srv://sourav1998:Sourav1998@cluster0.5gpwdqx.mongodb.net/BOOKing'
+const MongoDBURL ='mongodb+srv://..................path...........................'
                    
 mongoose.connect(MongoDBURL,
   {
